@@ -38,6 +38,7 @@ Get all repositories which are not forks with repository name, user's login, bra
 <h2>Errors</h2>
 2 errors have been handled in the application:
 <h4>1. When GitHub user does not exist, you will receive: </h4>
+
 ```json
 {
     "status": 404,
